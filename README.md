@@ -9,17 +9,13 @@ Kubeflow is fairly self-contained but it requires kubectl for communicating with
 * installing kubectl using snap:
 
 ```shell
-	
 	sudo snap install kubectl --classic
-
 ``` 
 
 * installing kubectl using homebrew:
 
 ```shell
-	
-	brew install hubernetes-cli
-
+	brew install kubernetes-cli
 ```
 
 
